@@ -9,4 +9,4 @@
 - 💖Low proxy usage
 - 💖Everything customizable
 
-## Announcement channel [Here](https://t.me/TwitterAIO2023)
+## [Announcement channel](https://t.me/TwitterAIO2023)
